@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	MozRepl
 Summary:	MozRepl - Perl interface of MozRepl
 Summary(pl.UTF-8):	MozRepl - interfejs Perla do MozRepl
